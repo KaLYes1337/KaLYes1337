@@ -1,4 +1,4 @@
-# 💻 Kalin Yanev | Aspiring Programmer
+# 💻 Kalin Yanev | Aspiring Developer
 
 🎓 **Recent Graduate** from **University of Plovdiv "Paisii Hilendarski"**  
 🌱 Currently focused on learning **Python** and **Linux Administration**  
@@ -33,7 +33,7 @@ I’m building a strong foundation in Python programming and Linux administratio
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/KaLYes1337)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:klyanevv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 Thank you for visiting my profile! I’m excited to connect, learn, and collaborate with fellow developers.
