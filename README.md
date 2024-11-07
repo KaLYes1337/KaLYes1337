@@ -33,7 +33,7 @@ I’m building a strong foundation in Python programming and Linux administratio
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)]klyanevv@gmail.com
+(https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)klyanevv@gmail.com
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalin-yanev-143b65275/)
 
 Thank you for visiting my profile! I’m excited to connect, learn, and collaborate with fellow developers.
