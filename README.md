@@ -12,9 +12,9 @@
 
 This repository is a hub for my Python learning journey, where I document beginner projects to track progress. Follow along to see my evolving skills and new additions as I build my foundation in programming!
 
-[![Blackjack Game](https://img.shields.io/badge/-BlackJack%20Game-green?style=for-the-badge&logo=github)](https://github.com/KaLYes1337/BlackJackGame)
+[![Bash Scripts](https://img.shields.io/badge/-BlackJack%20Game-green?style=for-the-badge&logo=github)](https://github.com/KaLYes1337/WSL)
 
-An ongoing project for a console-based Blackjack game in Python. This project explores the implementation of game logic, handling player interactions, and improving the user experience as I continue to develop the game further.
+A collection of simple yet practical Bash scripts created during my ongoing learning period of Linux and system automation. These scripts help automate tasks, manage environments, and improve efficiency while working in WSL and Linux systems.
 
 ---
 
